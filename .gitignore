@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Logs and local data
+*.log
+*.sqlite3
+
+# Cache and test artifacts
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local uploads (if used)
+uploads/

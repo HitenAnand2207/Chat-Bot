@@ -9,7 +9,8 @@ This is a small Python web app that renders a template from the `templates` fold
 ## Quick start
 1) Create and activate a virtual environment.
 2) Install dependencies if you have a `requirements.txt` file.
-3) Run the app.
+3) Set the `GROQ_API_KEY` environment variable (you can use a `.env` file for local development).
+4) Run the app.
 
 ```bash
 python app.py
