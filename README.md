@@ -1,4 +1,4 @@
-# Project 2
+# A normal web scrapper 
 
 This is a small Python web app that renders a template from the `templates` folder. It is set up as a simple starting point you can extend with routes, forms, and data handling.
 
